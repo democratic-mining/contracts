@@ -1,0 +1,2 @@
+# contracts
+DEMOCRATIC MINING
